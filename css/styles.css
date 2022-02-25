@@ -11584,7 +11584,7 @@ body {
 }
 @media (min-width: 768px) {
   .masthead h1, .masthead .h1 {
-    font-size: 4rem;
+    font-size: 2rem;
     line-height: 4rem;
   }
 }
@@ -11594,9 +11594,8 @@ body {
     padding: 0;
   }
   .masthead h1, .masthead .h1 {
-    font-size: 6.5rem;
-    line-height: 6.5rem;
-    letter-spacing: 0.8rem;
+    font-size: 4rem;
+    line-height: 4rem;
   }
   .masthead h2, .masthead .h2 {
     max-width: 30rem;
